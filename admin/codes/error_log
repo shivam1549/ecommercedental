@@ -1,0 +1,77 @@
+[03-Mar-2022 15:56:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function mailsend() on null in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/orders.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/orders.php on line 21
+[03-Mar-2022 15:59:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function mailsend() on null in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/orders.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/orders.php on line 21
+[06-Mar-2022 06:36:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/OrderController.php:69) in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 18
+[06-Mar-2022 20:13:36 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/product.php on line 158
+[06-Mar-2022 20:13:46 Asia/Kolkata] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/product.php on line 158
+[07-Mar-2022 21:09:34 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php:46) in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 18
+[07-Mar-2022 21:40:29 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php:37) in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 18
+[10-Mar-2022 19:12:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function index() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 14
+[10-Mar-2022 19:13:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function index() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 16
+[10-Mar-2022 19:20:22 UTC] PHP Notice:  Undefined variable: final_filename in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 59
+[10-Mar-2022 19:20:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php:59) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 59
+[10-Mar-2022 19:20:22 UTC] PHP Notice:  Undefined variable: writer in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 60
+[10-Mar-2022 19:20:22 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 60
+[10-Mar-2022 19:22:20 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 65
+[10-Mar-2022 19:22:51 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 65
+[10-Mar-2022 19:23:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 65
+[10-Mar-2022 19:24:22 UTC] PHP Notice:  Undefined variable: spreadsheet in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 55
+[10-Mar-2022 19:24:22 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PhpOffice\PhpSpreadsheet\Writer\Csv::__construct() must be an instance of PhpOffice\PhpSpreadsheet\Spreadsheet, null given, called in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 55 and defined in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Csv.php:79
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php(55): PhpOffice\PhpSpreadsheet\Writer\Csv->__construct(NULL)
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Csv.php on line 79
+[10-Mar-2022 19:25:36 UTC] PHP Notice:  Array to string conversion in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 20
+[10-Mar-2022 19:25:36 UTC] PHP Notice:  Array to string conversion in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 20
+[10-Mar-2022 19:25:36 UTC] PHP Notice:  Array to string conversion in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 20
+[10-Mar-2022 19:25:36 UTC] PHP Notice:  Array to string conversion in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 20
+[10-Mar-2022 19:25:36 UTC] PHP Notice:  Array to string conversion in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 20
+[10-Mar-2022 19:25:36 UTC] PHP Notice:  Array to string conversion in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 20
+[10-Mar-2022 19:25:36 UTC] PHP Notice:  Undefined variable: spreadsheet in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 58
+[10-Mar-2022 19:25:36 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PhpOffice\PhpSpreadsheet\Writer\Csv::__construct() must be an instance of PhpOffice\PhpSpreadsheet\Spreadsheet, null given, called in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 58 and defined in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Csv.php:79
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php(58): PhpOffice\PhpSpreadsheet\Writer\Csv->__construct(NULL)
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Csv.php on line 79
+[10-Mar-2022 19:25:55 UTC] PHP Notice:  Undefined variable: spreadsheet in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 58
+[10-Mar-2022 19:25:55 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to PhpOffice\PhpSpreadsheet\Writer\Csv::__construct() must be an instance of PhpOffice\PhpSpreadsheet\Spreadsheet, null given, called in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 58 and defined in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Csv.php:79
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php(58): PhpOffice\PhpSpreadsheet\Writer\Csv->__construct(NULL)
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/phpspreadsheet/vendor/phpoffice/phpspreadsheet/src/PhpSpreadsheet/Writer/Csv.php on line 79
+[10-Mar-2022 19:46:46 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 120
+[16-Mar-2022 07:58:32 UTC] PHP Notice:  Undefined variable: final_filename in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 117
+[16-Mar-2022 07:58:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php:117) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 117
+[16-Mar-2022 07:58:32 UTC] PHP Notice:  Undefined variable: writer in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 118
+[16-Mar-2022 07:58:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 118
+[30-Mar-2022 00:09:40 UTC] PHP Notice:  Undefined variable: final_filename in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 61
+[30-Mar-2022 00:09:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php:61) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 61
+[30-Mar-2022 00:09:40 UTC] PHP Notice:  Undefined variable: writer in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 62
+[30-Mar-2022 00:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 62
+[30-Mar-2022 00:09:40 UTC] PHP Notice:  Undefined variable: final_filename in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 61
+[30-Mar-2022 00:09:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php:61) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 61
+[30-Mar-2022 00:09:40 UTC] PHP Notice:  Undefined variable: writer in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 62
+[30-Mar-2022 00:09:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function save() on null in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/export-orders.php on line 62
