@@ -1,15 +1,15 @@
 # ecommercedental
 The features of this ecommerce
 Admin-
-Create Categories, subcategories
-Create and products
-Banner manage of home page
-Order management
-Mail notification send to user and admin while changing the order status
+1.Create Categories, subcategories
+2.Create and products
+3.Banner manage of home page
+4.Order management
+5.Mail notification send to user and admin while changing the order status
 
 User-
-Register, login, forget password
-Cart add edit, upadet and delete
-wishlist
-My account
-Order view and cancel
+1.Register, login, forget password
+2.Cart add edit, upadet and delete
+3.wishlist
+4.My account
+5.Order view and cancel
