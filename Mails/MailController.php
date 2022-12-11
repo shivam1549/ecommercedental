@@ -13,14 +13,14 @@ class MailController{
         $mail->Port = 587;
         $mail->SMTPAuth = true;
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
-        $mail->From = "bh147ty@gmail.com";
+        $mail->From = "Your Mail";
         $mail->FromName = "Dento";
-        $mail->setFrom('bh147ty@gmail.com','Admin');
+        $mail->setFrom('Your Mail','Admin');
         $mail->addAddress($email);
         $mail->isHTML(true);
         $mail->Subject = "Dento $subject";
         $mail->Body = $content;
-        $mail->addcc("pormetheus77@gmail.com");
+        $mail->addcc("CC to your mail");
         $mail->send();
       }
   }
