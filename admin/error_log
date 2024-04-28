@@ -1,0 +1,742 @@
+[05-Mar-2022 15:18:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:45
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 45
+[05-Mar-2022 15:18:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:45
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 45
+[05-Mar-2022 15:18:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:45
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList(0, Array)
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 45
+[05-Mar-2022 15:18:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:45
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList(0, Array)
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 45
+[05-Mar-2022 15:19:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:45
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList(0, Array)
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 45
+[05-Mar-2022 15:20:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:45
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList(0, Array)
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 45
+[05-Mar-2022 15:21:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:45
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList(0, Array)
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 45
+[05-Mar-2022 15:21:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:45
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList(0, Array)
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 45
+[05-Mar-2022 15:22:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:45
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList(0, Array)
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 45
+[05-Mar-2022 15:24:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList(0, Array)
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:24:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList(0, Array)
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:25:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:25:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:25:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:25:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:25:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:25:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:26:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:26:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:27:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_fetch_object() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:28:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_assoc() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:28:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_assoc() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:46
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 46
+[05-Mar-2022 15:29:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_assoc() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:47
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 47
+[05-Mar-2022 15:30:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTreeList() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:49
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 49
+[05-Mar-2022 15:31:16 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 55
+[05-Mar-2022 15:33:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTreeList() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:51
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 51
+[05-Mar-2022 15:33:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTreeList() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:51
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 51
+[05-Mar-2022 15:35:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTreeList() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:53
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 53
+[05-Mar-2022 15:37:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTreeList() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:53
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 53
+[05-Mar-2022 15:37:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTreeList() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:53
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 53
+[05-Mar-2022 15:37:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTreeList() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:53
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 53
+[05-Mar-2022 15:37:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTreeList() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:53
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 53
+[05-Mar-2022 15:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTreeList() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:53
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php(92): CategoryController->fetchCategoryTreeList()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 53
+[05-Mar-2022 18:02:37 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 85
+[05-Mar-2022 18:04:51 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 85
+[05-Mar-2022 18:04:54 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 85
+[05-Mar-2022 18:06:14 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 85
+[05-Mar-2022 18:06:17 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting function (T_FUNCTION) or const (T_CONST) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 85
+[05-Mar-2022 18:07:55 UTC] PHP Parse error:  syntax error, unexpected '--' (T_DEC) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/categories.php on line 131
+[05-Mar-2022 19:53:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 121
+[06-Mar-2022 07:56:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[06-Mar-2022 07:56:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[06-Mar-2022 07:56:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[06-Mar-2022 07:56:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[06-Mar-2022 07:57:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[06-Mar-2022 07:57:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[06-Mar-2022 07:57:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[06-Mar-2022 07:57:53 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 2 to be string, array given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[06-Mar-2022 10:43:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 10:44:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 10:44:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 10:49:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 10:50:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 10:50:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 10:53:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 10:53:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 10:54:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 10:54:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 10:55:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 10:55:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 10:59:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 10:59:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 10:59:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 10:59:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 10:59:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 10:59:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 10:59:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:00:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:00:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:00:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 11:00:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:00:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:01:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:01:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:01:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 11:01:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:01:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:02:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:02:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:02:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 11:02:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:02:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:03:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:03:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:03:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 11:03:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:03:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:03:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 11:03:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:05:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 11:05:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:07:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 11:07:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 11:20:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:20:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:25:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:25:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:26:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:26:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:27:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:27:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:27:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:27:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:27:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:27:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:28:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:29:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:29:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:29:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:29:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:30:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:30:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:30:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:30:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:32:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:32:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:33:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:33:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:35:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:35:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:36:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:36:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:36:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:36:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:40:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:40:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:41:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:41:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:42:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:42:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:43:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:43:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:45:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:45:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:46:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:46:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 11:48:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 11:48:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 12:27:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 12:27:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 12:28:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 12:28:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 12:28:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 12:28:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 12:33:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 12:33:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 12:33:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 12:33:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 12:34:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 12:34:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 12:42:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 12:42:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 13:04:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 13:04:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 13:04:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 13:04:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 13:24:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTree() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php:313
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 313
+[06-Mar-2022 13:24:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTree() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php:313
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 313
+[06-Mar-2022 13:24:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTree() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php:313
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 313
+[06-Mar-2022 13:24:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTree() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php:313
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 313
+[06-Mar-2022 13:24:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTree() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php:313
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 313
+[06-Mar-2022 13:25:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTree() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php:316
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 316
+[06-Mar-2022 13:25:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function fetchCategoryTree() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php:316
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 316
+[06-Mar-2022 13:26:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method ProductController::fetchCategoryTree() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php:316
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 316
+[06-Mar-2022 13:28:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CategoryController::fetchCategoryTree() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php:317
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 317
+[06-Mar-2022 13:29:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 70
+[06-Mar-2022 13:30:06 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 70
+[06-Mar-2022 13:31:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 13:31:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 13:31:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 13:31:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 13:35:21 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 314
+[06-Mar-2022 13:35:40 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 314
+[06-Mar-2022 13:35:42 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 314
+[06-Mar-2022 13:36:27 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 314
+[06-Mar-2022 13:36:29 UTC] PHP Parse error:  syntax error, unexpected '=' in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 314
+[06-Mar-2022 13:37:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CategoryController::fetchCategoryTreeListmenu() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:47
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php(328): CategoryController->fetchCategoryTreeww()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 47
+[06-Mar-2022 13:39:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CategoryController::fetchCategoryTreeListmenu() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:47
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php(328): CategoryController->fetchCategoryTreeww()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 47
+[06-Mar-2022 13:40:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CategoryController::fetchCategoryTreeListmenu() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:47
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php(305): CategoryController->fetchCategoryTreeww()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 47
+[06-Mar-2022 13:41:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method CategoryController::fetchCategoryTreeListmenu() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php:47
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php(305): CategoryController->fetchCategoryTreeww()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CategoryController.php on line 47
+[06-Mar-2022 14:12:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 286
+[06-Mar-2022 14:12:12 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 257
+[06-Mar-2022 14:29:59 UTC] PHP Fatal error:  Can't use function return value in write context in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 321
+[06-Mar-2022 14:41:39 UTC] PHP Warning:  Illegal string offset 'category_name' in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/products.php on line 95
+[06-Mar-2022 14:41:39 UTC] PHP Warning:  Illegal string offset 'category_name' in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/products.php on line 95
+[06-Mar-2022 14:41:39 UTC] PHP Warning:  Illegal string offset 'category_name' in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/products.php on line 95
+[06-Mar-2022 14:41:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 284
+[06-Mar-2022 14:41:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 255
+[06-Mar-2022 14:41:39 UTC] PHP Warning:  Illegal string offset 'category_name' in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/products.php on line 95
+[06-Mar-2022 14:41:39 UTC] PHP Warning:  Illegal string offset 'category_name' in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/products.php on line 95
+[06-Mar-2022 14:41:39 UTC] PHP Warning:  Illegal string offset 'category_name' in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/products.php on line 95
+[06-Mar-2022 14:41:39 UTC] PHP Warning:  Illegal string offset 'category_name' in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/products.php on line 95
+[06-Mar-2022 14:43:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 14:43:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 14:43:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 14:43:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 14:43:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:43:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:43:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:43:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:43:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:43:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:43:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:43:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 14:43:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 14:44:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 14:44:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 14:45:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:45:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:45:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:45:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:45:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:45:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:45:02 UTC] PHP Warning:  in_array() expects parameter 2 to be array, bool given in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-products.php on line 330
+[06-Mar-2022 14:45:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 14:45:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 14:52:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 14:52:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 14:55:06 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/add-products.php on line 297
+[06-Mar-2022 14:57:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 14:57:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 14:57:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 14:57:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 14:57:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 14:57:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 15:00:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 15:00:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 15:02:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 15:02:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 15:03:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 15:03:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 15:05:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 15:05:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[06-Mar-2022 15:05:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[06-Mar-2022 15:05:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[07-Mar-2022 16:24:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[07-Mar-2022 16:24:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[07-Mar-2022 16:25:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 312
+[07-Mar-2022 16:25:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/ProductController.php on line 283
+[08-Mar-2022 19:13:47 UTC] PHP Warning:  require_once(admin/assets/tcpdf_min/tcpdf.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 13
+[08-Mar-2022 19:13:47 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/assets/tcpdf_min/tcpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 13
+[08-Mar-2022 19:14:42 UTC] PHP Warning:  require_once(admin/assets/tcpdf_min/tcpdf.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 13
+[08-Mar-2022 19:14:42 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/assets/tcpdf_min/tcpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 13
+[08-Mar-2022 19:14:51 UTC] PHP Warning:  require_once(admin/assets/tcpdf_min/tcpdf.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 13
+[08-Mar-2022 19:14:51 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/assets/tcpdf_min/tcpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 13
+[08-Mar-2022 19:15:10 UTC] PHP Warning:  require_once(admin/assets/tcpdf_min/tcpdf.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 13
+[08-Mar-2022 19:15:10 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/assets/tcpdf_min/tcpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 13
+[08-Mar-2022 19:15:40 UTC] PHP Warning:  require_once(admin/assets/tcpdf_min/tcpdf.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 13
+[08-Mar-2022 19:15:40 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/assets/tcpdf_min/tcpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 13
+[08-Mar-2022 19:18:09 UTC] PHP Warning:  require_once(admin/assets/tcpdf_min/tcpdf.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 16
+[08-Mar-2022 19:18:09 UTC] PHP Fatal error:  require_once(): Failed opening required 'admin/assets/tcpdf_min/tcpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 16
+[08-Mar-2022 19:20:04 UTC] PHP Warning:  require_once(): https:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 16
+[08-Mar-2022 19:20:04 UTC] PHP Warning:  require_once(https://gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php): failed to open stream: no suitable wrapper could be found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 16
+[08-Mar-2022 19:20:04 UTC] PHP Fatal error:  require_once(): Failed opening required 'https://gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 16
+[08-Mar-2022 19:20:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:20:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:20:46 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:20:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:23:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:23:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:23:27 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:23:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:23:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:23:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:23:31 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:23:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:23:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:23:37 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:24:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:24:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:24:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:24:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:24:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:24:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:24:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:24:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:24:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:24:18 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:25:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:25:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:25:22 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:25:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:25:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:25:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:25:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:25:30 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:25:30 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:25:30 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:26:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:26:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:26:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:26:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:26:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:26:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:27:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:27:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:27:19 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:27:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:27:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:27:26 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:27:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:27:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:27:40 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:27:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:29:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:01 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:03 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:05 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:29:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:09 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:29:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:48 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:48 UTC] PHP Warning:  fopen(): remote host file access not supported, file://Invoice_cartvin.pdf in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/include/tcpdf_static.php on line 1821
+[08-Mar-2022 19:29:48 UTC] PHP Warning:  fopen(file://Invoice_cartvin.pdf): failed to open stream: no suitable wrapper could be found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/include/tcpdf_static.php on line 1821
+[08-Mar-2022 19:29:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:29:54 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:31:21 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:31:21 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:31:21 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:31:21 UTC] PHP Warning:  fopen(): remote host file access not supported, file://Invoice_cartvin.pdf in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/include/tcpdf_static.php on line 1821
+[08-Mar-2022 19:31:21 UTC] PHP Warning:  fopen(file://Invoice_cartvin.pdf): failed to open stream: no suitable wrapper could be found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/include/tcpdf_static.php on line 1821
+[08-Mar-2022 19:31:42 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:31:42 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:31:42 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:31:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:34:24 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:34:24 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:34:24 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:34:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:35:12 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:35:13 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:36:00 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:36:04 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:36:06 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:34 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:35 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:36 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:36 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:36 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:37:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:38 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:37:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:37:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:38:11 UTC] PHP Notice:  Undefined variable: db in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 383
+[08-Mar-2022 19:38:11 UTC] PHP Notice:  Trying to get property 'conn' of non-object in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 383
+[08-Mar-2022 19:38:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:38:11 UTC] PHP Notice:  Undefined variable: db in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 383
+[08-Mar-2022 19:38:11 UTC] PHP Notice:  Trying to get property 'conn' of non-object in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 383
+[08-Mar-2022 19:38:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:38:11 UTC] PHP Notice:  Undefined variable: db in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 326
+[08-Mar-2022 19:38:11 UTC] PHP Notice:  Trying to get property 'conn' of non-object in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 326
+[08-Mar-2022 19:38:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:38:11 UTC] PHP Notice:  Undefined variable: db in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 336
+[08-Mar-2022 19:38:11 UTC] PHP Notice:  Trying to get property 'conn' of non-object in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 336
+[08-Mar-2022 19:38:11 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:38:11 UTC] PHP Notice:  ob_end_clean(): failed to delete buffer. No buffer to delete in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 319
+[08-Mar-2022 19:38:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:39:52 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:39:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:40:14 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:40:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:40:41 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:40:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:40:52 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:40:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[08-Mar-2022 19:41:45 UTC] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home/ictdzfbe/public_html/gyangreedy.com/dento/config/app.php on line 23
+[08-Mar-2022 19:41:45 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[10-Mar-2022 17:59:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[10-Mar-2022 18:02:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[10-Mar-2022 18:02:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[10-Mar-2022 18:03:01 UTC] PHP Notice:  Undefined variable: count in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 123
+[10-Mar-2022 18:03:01 UTC] PHP Notice:  Undefined variable: count in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 130
+[10-Mar-2022 18:03:01 UTC] PHP Notice:  ob_end_clean(): failed to delete buffer. No buffer to delete in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/edit-order.php on line 150
+[10-Mar-2022 18:03:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/header.php:1) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/assets/tcpdf_min/tcpdf.php on line 7657
+[13-Mar-2022 16:39:10 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/customer-query.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/customer-query.php on line 68
+[13-Mar-2022 16:39:55 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/customer-query.php:68
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/customer-query.php on line 68
+[13-Mar-2022 16:40:20 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CustomerqueryController.php:24
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/customer-query.php(66): CustomerqueryController->getOrderId('1525343616')
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CustomerqueryController.php on line 24
+[13-Mar-2022 16:40:21 UTC] PHP Fatal error:  Uncaught Error: Object of class stdClass could not be converted to string in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CustomerqueryController.php:24
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/customer-query.php(66): CustomerqueryController->getOrderId('1525343616')
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CustomerqueryController.php on line 24
+[13-Mar-2022 16:49:41 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CustomerqueryController.php:24
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/customer-query.php(66): CustomerqueryController->getOrderId('1525343616')
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CustomerqueryController.php on line 24
+[13-Mar-2022 16:49:57 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CustomerqueryController.php:24
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/customer-query.php(66): CustomerqueryController->getOrderId('1525343616')
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/controllers/CustomerqueryController.php on line 24
+[16-Mar-2022 07:10:34 UTC] PHP Warning:  include(../controllers/AdminControllerController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:10:34 UTC] PHP Warning:  include(): Failed opening '../controllers/AdminControllerController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:10:34 UTC] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 30
+[16-Mar-2022 07:12:06 UTC] PHP Warning:  include(../controllers/AdminControllerController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:12:06 UTC] PHP Warning:  include(): Failed opening '../controllers/AdminControllerController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:12:06 UTC] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 30
+[16-Mar-2022 07:12:08 UTC] PHP Warning:  include(../controllers/AdminControllerController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:12:08 UTC] PHP Warning:  include(): Failed opening '../controllers/AdminControllerController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:12:08 UTC] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 30
+[16-Mar-2022 07:12:57 UTC] PHP Warning:  include(../controllers/AdminController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:12:57 UTC] PHP Warning:  include(): Failed opening '../controllers/AdminController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:12:57 UTC] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 30
+[16-Mar-2022 07:13:00 UTC] PHP Warning:  include(../controllers/AdminController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:13:00 UTC] PHP Warning:  include(): Failed opening '../controllers/AdminController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:13:00 UTC] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 30
+[16-Mar-2022 07:13:17 UTC] PHP Warning:  include(../controllers/AdminController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:13:17 UTC] PHP Warning:  include(): Failed opening '../controllers/AdminController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:13:17 UTC] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 30
+[16-Mar-2022 07:14:30 UTC] PHP Warning:  include(../controllers/AdminController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:14:30 UTC] PHP Warning:  include(): Failed opening '../controllers/AdminController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 4
+[16-Mar-2022 07:14:30 UTC] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 30
+[16-Mar-2022 07:15:03 UTC] PHP Warning:  include(../controllers/AdminController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 6
+[16-Mar-2022 07:15:03 UTC] PHP Warning:  include(): Failed opening '../controllers/AdminController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 6
+[16-Mar-2022 07:15:03 UTC] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 32
+[16-Mar-2022 07:41:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method AdminController::getNeworders() in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php:214
+Stack trace:
+#0 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php on line 214
+[16-Mar-2022 12:30:08 UTC] PHP Warning:  include_once(controllers/RegisterController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 3
+[16-Mar-2022 12:30:08 UTC] PHP Warning:  include_once(): Failed opening 'controllers/RegisterController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 3
+[16-Mar-2022 12:30:08 UTC] PHP Warning:  include_once(controllers/LoginController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 4
+[16-Mar-2022 12:30:08 UTC] PHP Warning:  include_once(): Failed opening 'controllers/LoginController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 4
+[16-Mar-2022 12:30:08 UTC] PHP Warning:  include_once(Mails/MailController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 5
+[16-Mar-2022 12:30:08 UTC] PHP Warning:  include_once(): Failed opening 'Mails/MailController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 5
+[16-Mar-2022 12:30:08 UTC] PHP Fatal error:  Uncaught Error: Class 'LoginController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php:6
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php(4): include()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 6
+[16-Mar-2022 12:30:13 UTC] PHP Warning:  include_once(controllers/RegisterController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 3
+[16-Mar-2022 12:30:13 UTC] PHP Warning:  include_once(): Failed opening 'controllers/RegisterController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 3
+[16-Mar-2022 12:30:13 UTC] PHP Warning:  include_once(controllers/LoginController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 4
+[16-Mar-2022 12:30:13 UTC] PHP Warning:  include_once(): Failed opening 'controllers/LoginController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 4
+[16-Mar-2022 12:30:13 UTC] PHP Warning:  include_once(Mails/MailController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 5
+[16-Mar-2022 12:30:13 UTC] PHP Warning:  include_once(): Failed opening 'Mails/MailController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 5
+[16-Mar-2022 12:30:13 UTC] PHP Fatal error:  Uncaught Error: Class 'LoginController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php:6
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php(4): include()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 6
+[16-Mar-2022 12:30:15 UTC] PHP Warning:  include_once(controllers/RegisterController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 3
+[16-Mar-2022 12:30:15 UTC] PHP Warning:  include_once(): Failed opening 'controllers/RegisterController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 3
+[16-Mar-2022 12:30:15 UTC] PHP Warning:  include_once(controllers/LoginController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 4
+[16-Mar-2022 12:30:15 UTC] PHP Warning:  include_once(): Failed opening 'controllers/LoginController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 4
+[16-Mar-2022 12:30:15 UTC] PHP Warning:  include_once(Mails/MailController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 5
+[16-Mar-2022 12:30:15 UTC] PHP Warning:  include_once(): Failed opening 'Mails/MailController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 5
+[16-Mar-2022 12:30:15 UTC] PHP Fatal error:  Uncaught Error: Class 'LoginController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php:6
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php(4): include()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 6
+[16-Mar-2022 12:30:40 UTC] PHP Warning:  include_once(controllers/RegisterController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 3
+[16-Mar-2022 12:30:40 UTC] PHP Warning:  include_once(): Failed opening 'controllers/RegisterController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 3
+[16-Mar-2022 12:30:40 UTC] PHP Warning:  include_once(controllers/LoginController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 4
+[16-Mar-2022 12:30:40 UTC] PHP Warning:  include_once(): Failed opening 'controllers/LoginController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 4
+[16-Mar-2022 12:30:40 UTC] PHP Warning:  include_once(Mails/MailController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 5
+[16-Mar-2022 12:30:40 UTC] PHP Warning:  include_once(): Failed opening 'Mails/MailController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 5
+[16-Mar-2022 12:30:40 UTC] PHP Fatal error:  Uncaught Error: Class 'LoginController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php:6
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php(4): include()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 6
+[16-Mar-2022 12:31:14 UTC] PHP Warning:  include_once(controllers/RegisterController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 3
+[16-Mar-2022 12:31:14 UTC] PHP Warning:  include_once(): Failed opening 'controllers/RegisterController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 3
+[16-Mar-2022 12:31:14 UTC] PHP Warning:  include_once(controllers/LoginController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 4
+[16-Mar-2022 12:31:14 UTC] PHP Warning:  include_once(): Failed opening 'controllers/LoginController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 4
+[16-Mar-2022 12:31:14 UTC] PHP Warning:  include_once(Mails/MailController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 5
+[16-Mar-2022 12:31:14 UTC] PHP Warning:  include_once(): Failed opening 'Mails/MailController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 5
+[16-Mar-2022 12:31:14 UTC] PHP Fatal error:  Uncaught Error: Class 'LoginController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php:6
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php(7): include()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/codes/authentication_code.php on line 6
+[16-Mar-2022 12:47:15 UTC] PHP Warning:  include(../../config/app.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:47:15 UTC] PHP Warning:  include(): Failed opening '../../config/app.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:47:15 UTC] PHP Warning:  include_once(../controllers/AuthController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 3
+[16-Mar-2022 12:47:15 UTC] PHP Warning:  include_once(): Failed opening '../controllers/AuthController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 3
+[16-Mar-2022 12:47:15 UTC] PHP Fatal error:  Uncaught Error: Class 'AuthController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php:5
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/index.php(6): include()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 5
+[16-Mar-2022 12:47:23 UTC] PHP Warning:  include(../../config/app.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:47:23 UTC] PHP Warning:  include(): Failed opening '../../config/app.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:47:23 UTC] PHP Warning:  include_once(../controllers/AuthController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 3
+[16-Mar-2022 12:47:23 UTC] PHP Warning:  include_once(): Failed opening '../controllers/AuthController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 3
+[16-Mar-2022 12:47:40 UTC] PHP Warning:  include_once(../controllers/AuthController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:47:40 UTC] PHP Warning:  include_once(): Failed opening '../controllers/AuthController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:49:28 UTC] PHP Warning:  include_once(../controllers/AuthController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:49:28 UTC] PHP Warning:  include_once(): Failed opening '../controllers/AuthController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:49:59 UTC] PHP Warning:  include_once(../controllers/AuthController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:49:59 UTC] PHP Warning:  include_once(): Failed opening '../controllers/AuthController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:51:11 UTC] PHP Warning:  include_once(../controllers/AuthController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:51:11 UTC] PHP Warning:  include_once(): Failed opening '../controllers/AuthController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:54:31 UTC] PHP Warning:  include_once(../controllers/AuthController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:54:31 UTC] PHP Warning:  include_once(): Failed opening '../controllers/AuthController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:54:33 UTC] PHP Warning:  include_once(../controllers/AuthController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:54:33 UTC] PHP Warning:  include_once(): Failed opening '../controllers/AuthController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:54:54 UTC] PHP Warning:  include_once(../controllers/AuthController.php): failed to open stream: No such file or directory in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 12:54:54 UTC] PHP Warning:  include_once(): Failed opening '../controllers/AuthController.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/codes/auth-code.php on line 2
+[16-Mar-2022 13:04:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/sidebar.php on line 142
+[16-Mar-2022 13:05:44 UTC] PHP Fatal error:  Uncaught Error: Class 'AdminController' not found in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/sidebar.php:86
+Stack trace:
+#0 /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/customer-query.php(10): include()
+#1 {main}
+  thrown in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/inc/sidebar.php on line 86
+[16-Mar-2022 13:23:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/ictdzfbe/public_html/gyangreedy.com/dento/admin/products.php on line 87
